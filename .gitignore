@@ -1,0 +1,15 @@
+cmake-build-*
+build
+log
+install
+Build
+*.*~
+.idea
+doxgen_generated
+*.swp
+*.swo
+doc
+.vscode
+V1_01_easy.zip
+V1_01_easy/metadata.yaml
+V1_01_easy/V1_01_easy.db3
